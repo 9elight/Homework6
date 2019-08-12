@@ -1,6 +1,8 @@
 package com.company;
 
-public class Player {
+public class Player
+
+{
     private int health;
     private int damage;
 
